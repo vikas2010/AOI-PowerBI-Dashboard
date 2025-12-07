@@ -88,7 +88,7 @@ These KPIs provide a snapshot of **environmental health** for each city.
 
 ### 🌆 AQI Dashboard
 
-![AQI Summary]()
+![AQI Summary](https://github.com/vikas2010/AOI-PowerBI-Dashboard/blob/952037ef7339d5bda3f1fd1f20c9154980c08fc0/Screenshot%202025-10-10%20105351.png)
 
 
 ---
